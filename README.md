@@ -50,4 +50,3 @@ tulis, job menjadi merah.
   tugas dari asisten dosen
 - Dokumentasi GitHub Actions: docs.github.com/actions
 - Bantuan dari teman dan bantuan dari AI(Claude dan Chatgpt)
-# compose-ci-minggu11
